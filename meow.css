@@ -1,0 +1,9 @@
+body {
+background: lightgrey;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
