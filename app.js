@@ -5,3 +5,8 @@
 
 
 // TODO: learn line breaks with ASCII art
+$(document).ready(function() {
+ $(".button").click(function() {
+   $("img").attr("src", $(this).data("cat"));
+  });
+ });
